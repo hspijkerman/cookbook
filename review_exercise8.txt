@@ -3,5 +3,3 @@
 3) Now to test the git pull in switch to developer01\remote-repo01-client01 -> What the heck??
 4) cd developer0 -> cd developer01
 5) cd remote-repo01-client01 -> this directory does not exits. We used "git clone ../remote-repo01-client01.git ." to clone so all files are stored in the current directory and not in a child "remote-repo01-client01.git"
-6) step 1 command "git clone ../remote-repo01-client01.git ." does not create the directoy used in the step 3 command "cd remote-repo01-client01"
-
