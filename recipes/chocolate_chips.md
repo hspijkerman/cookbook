@@ -1,9 +1,9 @@
-# CHOCOLATE CHIP COOKIES (10)
+# Chocolate chip cookies (10)
 PREP TIME: 45 MINUTES<br>
 COOK TIME: 20 MINUTES<br>
 TOTAL TIME: 2 DAYS 65 MINUTES<br>
 
-## Cook Toffee
+## Cook toffee
 
 | Ingredients                       | Amount    | Alternate amount |
 | --------------------------------- | --------- | ---------------- |
@@ -20,7 +20,7 @@ TOTAL TIME: 2 DAYS 65 MINUTES<br>
 
 ## Prepare cookie dough
 
-| Ingredients                     | AMOUNT    | ALTERNATE AMOUNT |
+| Ingredients                     | Amount    | Alternate amount |
 | ------------------------------- | --------- | ---------------- |
 | Unsalted Butter                 | 1 cup     | 2 sticks         |
 | Ice Cubes                       | 4         |                  |
@@ -49,7 +49,7 @@ TOTAL TIME: 2 DAYS 65 MINUTES<br>
 10.  Let the dough rest in the refrigerator for at least 48 hours. This will allow the flavor to develop and the dough to dry out a little as it rests, which will result in less spread when it bakes.
 
 
-## Bake cookies
+## Bake the cookies
 
 1.   When ready to bake, preheat the oven to 325°F (163°C). Line baking sheet with parchment paper. 
 2.   Arrange the cookies on the baking sheet, leaving at least 2 inches of space between the cookies and away from the edges of the pan.

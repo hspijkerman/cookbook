@@ -1,0 +1,67 @@
+# Japanese Chicken and Rice (4)
+PREP TIME: 15 MINUTES<br>
+COOK TIME: 25 MINUTES<br>
+TOTAL TIME: 40 MINUTES<br>
+
+## 1. Cook rice
+
+| Ingredients               | Amount           |
+| ------------------------- | ---------------- |
+| Brown Rice                | 1 cup            |
+| Peas                      | ½ frozen peas    |
+| Carrots                   | 1 large carrot   |
+| Water                     | 2 cups           |
+| Kosher Salt               | 1 pinch          |
+
+### Steps:
+1.   Peel, shred, and dry the carrot.
+2.   Fill medium pot with water, brown rice, salt, and carrots.
+3.   Cover pot and bring water to a boil.
+3.   Let cook covered until soft (about 20 minutes).
+4.   Add peas once cooked. Let sit for another few minutes.
+4.   Thouroughly stir contents.
+
+## 2. Cook eggplant
+
+| Ingredients               | Amount           |
+| ------------------------- | ---------------- |
+| Eggplant                  | 1 eggplant       |
+
+### Steps:
+1.   Preheat oven to 350°F.
+2.   Wash and dry the eggplant.
+3.   Slice the eggplant in half lengthwise, then in ¼ inch thick slices.
+4.   Roast the eggplant for 20 minutes, flipping halfway through.
+
+
+## 3. Cook chicken
+
+| Ingredients                       | Amount   |
+| --------------------------------- | -------- |
+| Boneless Skinless Chicken Thighs  | 8 pieces |
+| Kosher Salt                       | 2 tbsp   |
+| Togarashi Seasoning               | 2 tbsp   |
+
+### Steps:
+1.   Dry chicken, trim the fat, and lay flat.
+2.   Season with salt and togarashi.
+3.   Heat large frying pan on medium-high heat.
+4.   Lightly oil the pan and fry the chicken.
+5.   Roast the chicken in the oven (350°F) for 5 minutes to finish.
+
+## 4. Plating
+
+| Ingredients                       | Amount   |
+| --------------------------------- | -------- |
+| Sweet & Sour Sauce                | 8 tbsp   |
+| Sriracha                          | 1 tbsp   | 
+| Rice                              |          |
+| Squash                            |          |
+| Chicken                           |          |
+| Sauce                             |          |
+
+### Steps:
+1.   Create a base of rice on the plate.
+2.   Place roasted eggplant on top of the rice.
+3.   Place 2 pieces of chicken on top of the rice.
+4.   Generously pour the sauce over the chicken.
