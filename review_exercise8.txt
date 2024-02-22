@@ -1,0 +1,7 @@
+1) Now create a directory developer01/client01 -> should only be developer01
+2) test01 is a new file so git commit -a, won't add it. test02 does exists
+3) Now to test the git pull in switch to developer01\remote-repo01-client01 -> What the heck??
+4) cd developer0 -> cd developer01
+5) cd remote-repo01-client01 -> this directory does not exits. We used "git clone ../remote-repo01-client01.git ." to clone so all files are stored in the current directory and not in a child "remote-repo01-client01.git"
+
+
