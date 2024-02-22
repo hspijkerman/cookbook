@@ -3,6 +3,8 @@ PREP TIME: 45 MINUTES<br>
 COOK TIME: 20 MINUTES<br>
 TOTAL TIME: 2 DAYS 65 MINUTES<br>
 
+![Chocolate chips](images/chocolate_chips.jpg)
+
 ## Cook toffee
 
 | Ingredients                       | Amount    | Alternate amount |
