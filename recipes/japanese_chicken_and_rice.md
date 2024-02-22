@@ -3,6 +3,8 @@ PREP TIME: 15 MINUTES<br>
 COOK TIME: 25 MINUTES<br>
 TOTAL TIME: 40 MINUTES<br>
 
+![Chicken and rice](images/chicken_and_rice.jpg)
+
 ## 1. Cook rice
 
 | Ingredients               | Amount           |
